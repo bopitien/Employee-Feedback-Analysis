@@ -14,7 +14,7 @@ To help HR and leadership:
 
 ---
 
-## 🏢 Business Background
+##  Business Background
 
 **BrightWave Solutions**, a mid-sized services company, noticed:
 - Increasing staff turnover
@@ -34,7 +34,7 @@ The dataset includes both **quantitative ratings** and **free-text feedback**:
 
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 
 - **Language:** Python  
 - **Libraries:** Pandas, Seaborn, Matplotlib, WordCloud  
